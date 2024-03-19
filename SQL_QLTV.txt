@@ -1,0 +1,174 @@
+/*
+Created		10/2/2022
+Modified		10/2/2022
+Project		
+Model			
+Company		
+Author		
+Version		
+Database		MS SQL 2005 
+*/
+create database QuanLy_ThuVien
+
+Create table [DOCGIA]
+(
+	[MADG] Varchar(50) NOT NULL,
+	[TENDG] Nvarchar(100) NULL,
+	[GIOITINH] Nvarchar(10) NULL,
+	[NAMSINH] Datetime NULL,
+	[DIACHI] Nvarchar(100) NULL,
+Primary Key ([MADG])
+) 
+go
+
+Create table [SACH]
+(
+	[MASACH] Varchar(50) NOT NULL,
+	[TENSACH] Nvarchar(100) NULL,
+	[TACGIA] Varchar(50) NULL,
+	[NXB] Varchar(50) NULL,
+	[GIASACH] Bigint NULL,
+	[SOLUONG] Bigint NULL,
+	[TINHTRANG] Nvarchar(100) NULL,
+	[MALOAI] Varchar(50) NOT NULL,
+Primary Key ([MASACH])
+) 
+go
+
+Create table [PHIEUMUON]
+(
+	[MAPHIEUMUON] Varchar(50) NOT NULL,
+	[NGAYMUON] Datetime NULL,
+	[NGAYPHAITRA] Datetime NULL,
+	[MADG] Varchar(50) NOT NULL,
+Primary Key ([MAPHIEUMUON])
+) 
+go
+
+Create table [PHIEUTRA]
+(
+	[MAPHIEUTRA] Varchar(50) NOT NULL,
+	[NGAYTRA] Datetime NULL,
+	[MASACH] Varchar(50) NOT NULL,
+	[MAPHIEUMUON] Varchar(50) NOT NULL,
+Primary Key ([MAPHIEUTRA])
+) 
+go
+
+Create table [PHIEUPHAT]
+(
+	[MAPHIEUPHAT] Varchar(50) NOT NULL,
+	[NGAYLAP] Datetime NULL,
+	[LYDO] Nvarchar(100) NULL,
+	[HINHTHUC] Nvarchar(100) NULL,
+	[MAPHIEUMUON] Varchar(50) NOT NULL,
+Primary Key ([MAPHIEUPHAT])
+) 
+go
+
+Create table [TAIKHOAN]
+(
+	[TENDN] Nvarchar(100) NULL,
+	[MADG] Varchar(50) NOT NULL,
+	[MK] Nvarchar(100) NULL,
+	[QUYEN] Nvarchar(100) NULL,
+Primary Key ([MADG])
+) 
+go
+
+Create table [CTPM]
+(
+	[MASACH] Varchar(50) NOT NULL,
+	[MAPHIEUMUON] Varchar(50) NOT NULL,
+Primary Key ([MASACH],[MAPHIEUMUON])
+) 
+go
+
+Create table [LOAISACH]
+(
+	[MALOAI] Varchar(50) NOT NULL,
+	[TENLOAI] Nvarchar(100) NULL,
+Primary Key ([MALOAI])
+) 
+go
+
+
+Alter table [TAIKHOAN] add  foreign key([MADG]) references [DOCGIA] ([MADG])  on update no action on delete no action 
+go
+Alter table [PHIEUMUON] add  foreign key([MADG]) references [DOCGIA] ([MADG])  on update no action on delete no action 
+go
+Alter table [CTPM] add  foreign key([MASACH]) references [SACH] ([MASACH])  on update no action on delete no action 
+go
+Alter table [CTPM] add  foreign key([MAPHIEUMUON]) references [PHIEUMUON] ([MAPHIEUMUON])  on update no action on delete no action 
+go
+Alter table [PHIEUPHAT] add  foreign key([MAPHIEUMUON]) references [PHIEUMUON] ([MAPHIEUMUON])  on update no action on delete no action 
+go
+Alter table [PHIEUTRA] add  foreign key([MASACH],[MAPHIEUMUON]) references [CTPM] ([MASACH],[MAPHIEUMUON])  on update no action on delete no action 
+go
+Alter table [SACH] add  foreign key([MALOAI]) references [LOAISACH] ([MALOAI])  on update no action on delete no action 
+go
+
+
+Set quoted_identifier on
+go
+
+
+Set quoted_identifier off
+go
+
+----------------Loai sach
+insert into DocGia values ('DG01',N'Huỳnh Văn S','Nam','1999/11/02',N'Thủ Đức');
+insert into DocGia values ('DG02',N'Võ Văn P','Nam','1998/12/21',N'Quận 9');
+insert into DocGia values ('DG03',N'Ho Thi D','Nữ','2000/07/12',N'Bình Thạnh');
+insert into DocGia values ('DG04',N'Võ Văn S','Nam','1988/01/30',N'Quận 3');
+insert into DocGia values ('DG05',N'phạm Văn T','Nam','2001/05/02',N'Quận 1');
+insert into DocGia values ('DG06',N'Huỳnh Mai Văn Đ','Nữ','2002/11/26',N'Quận 2');
+insert into DocGia values ('DG07',N'Tôn Thị T','Nữ','1987/04/26',N'Củ Chi');
+
+insert into LoaiSach values ('LS01',N'Truyền Cảm Hứng');
+insert into LoaiSach values ('LS02',N'Tiểu Thuyết');
+insert into LoaiSach values ('LS03',N'Khoa Học Viễn tưởng');
+insert into LoaiSach values ('LS04',N'Hồi Ký');
+insert into LoaiSach values ('LS05',N'Truyện Ngắn');
+
+insert into taikhoan values (N'Huỳnh Văn S','DG01','123456','Admin');
+insert into taikhoan values (N'Võ Văn P','DG02','123456','User');
+
+
+
+insert into Sach values ('MS01',N'ĐẮC NHÂN TÂM','XXBX','1987/02/18','78000','2',N'Còn','LS01');
+insert into Sach values ('MS02',N'THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE','XXBX','1998/05/11','90000','1','Còn','LS01');
+insert into Sach values ('MS03',N'THE OLD MAN AND THE SEA','XXBX','1967/07/09','100000','4',N'Hết','LS02');
+insert into Sach values ('MS04',N'LORD OF THE FLIES','XXBX','1998/05/11','89000','6',N'Còn','LS02');
+insert into Sach values ('MS05',N'THE WISE WOMAN','XXBX','1988/07/15','59000','5',N'Hết','LS03');
+insert into Sach values ('MS06',N'STEPHEN KING','XXBX','1997/11/25','87000','2',N'Còn','LS03');
+insert into Sach values ('MS07',N'THE GOOD NEIGHBOR','XCBX','1978/05/15','15000','6',N'Còn','LS04');
+insert into Sach values ('MS08',N'HEARTLAND','XXBX','1968/07/23','21000','3',N'Còn','LS04');
+insert into Sach values ('MS09',N'LIKES','XXBX','1957/05/26','42000','7','Còn','LS05');
+insert into Sach values ('MS10',N'HOE TO WALK ON WATER','XXBD','1992/08/23','99000','9',N'Hết','LS05');
+
+
+insert into PhieuMuon values ('PM01','2022/07/23','2022/09/20','DG06');
+insert into PhieuMuon values ('PM02','2022/09/24','2022/11/20','DG01');
+insert into PhieuMuon values ('PM03','2022/11/28','2022/11/29','DG05');
+insert into PhieuMuon values ('PM04','2022/06/06','2022/7/21','DG03');
+insert into PhieuMuon values ('PM05','2022/07/23','2022/09/20','DG06');
+insert into PhieuMuon values ('PM06','2022/04/10','2022/10/09','DG07');
+
+insert into CTPM values ('MS07','PM01');
+insert into CTPM values ('MS02','PM02');
+insert into CTPM values ('MS06','PM03');
+insert into CTPM values ('MS04','PM04');
+insert into CTPM values ('MS08','PM05');
+insert into CTPM values ('MS05','PM06');
+
+insert into PhieuPhat values ('PP01','2022/12/01',N'Trả Muộn','Phạt Tiền','PM03');
+insert into PhieuPhat values ('PP02','2022/10/02',N'Trả Muộn','Phạt Tiền','PM04');
+insert into PhieuPhat values ('PP03','2022/10/11',N'Trả Muộn và hỏng bìa','Phạt Tiền','PM06');
+
+insert into PhieuTra values ('PT01','2022/08/25','MS07','PM01');
+insert into PhieuTra values ('PT02','2022/10/25','MS02','PM02');
+insert into PhieuTra values ('PT03','2022/08/25','MS08','PM05');
+
+
+

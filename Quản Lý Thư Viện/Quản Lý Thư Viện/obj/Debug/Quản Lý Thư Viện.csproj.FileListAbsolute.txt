@@ -1,0 +1,109 @@
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.AssemblyReference.cache
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.SuggestedBindingRedirects.cache
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Properties.Resources.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.GenerateResource.cache
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CoreCompileInputs.cache
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe.config
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.exe
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Quản Lý Thư Viện.pdb
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\EntityFramework.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\EntityFramework.xml
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.csproj.CopyComplete
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.pdb
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản Lý Thư Viện.exe.licenses
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Formmain.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.FromSach.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\System.Data.SqlClient.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\System.Data.SqlClient.xml
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.SACH_datra.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.ND_timkiemsach.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.ND_Lichsumuon.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.ND_thongtin.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.DoiMatKhau.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Login.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Tao_TK.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Quen_MK.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.QL_PM.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.QL_PT.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.QL_ND.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Sach_DangMuon.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.QL_PP.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.TroGiup.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\obj\Debug\Quản_Lý_Thư_Viện.Map.resources
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\EnvDTE.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\stdole.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ án Winform\Quản Lý Thư Viện\Quản Lý Thư Viện\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
